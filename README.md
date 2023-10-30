@@ -31,11 +31,10 @@ for flexible and responsive layout design.
 
 ## Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/laurianerzb/.git
-2. Navigate to the project directory:
    ```bash 
-   cd 
+            git clone https://github.com/laurianerzb/POLISHED_UE.git
+
+2. Navigate to the project directory
 3. open the project directory in android studio
 4. run the app
 
