@@ -5,13 +5,12 @@
 
 - [Description](#description)
 - [Requirements](#requirements)
-- [Requirements](#features)
+- [Features](#features)
 - [Installation](#installation)
 - [Credits](#credits)
 - [Author](#author)
 
 ## Description
-
 This Android app is a simple tip calculator that allows users to calculate tips based on the cost 
 of service, service quality, and the option to round up the tip amount. 
 It's designed with a user-friendly interface and uses a ConstraintLayout 
@@ -22,7 +21,6 @@ for flexible and responsive layout design.
 - Android Studio with Android SDK installed
 
 ## Features
-
 - Input the cost of the service.
 - Rate the service with predefined options.
 - Choose from different tip percentages.
@@ -33,7 +31,6 @@ for flexible and responsive layout design.
 1. Clone the repository:
    ```bash 
             git clone https://github.com/laurianerzb/POLISHED_UE.git
-
 2. Navigate to the project directory
 3. open the project directory in android studio
 4. run the app
